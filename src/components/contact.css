@@ -1,0 +1,24 @@
+.contact {
+  margin: auto;
+  margin-top: 3px;
+  text-align: center;
+  width: 150px;
+  height: 90px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+  object-fit: fill;
+}
+
+.name {
+  margin: 2px;
+  font-weight: bold;
+}
+
+.data {
+  padding: 2px;
+}
