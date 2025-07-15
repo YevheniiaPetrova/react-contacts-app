@@ -35,6 +35,12 @@
     phone: "+497116543210",
     gender: "male"
    },
+   {
+    firstName: "Isabella",
+    lastName: "Weber",
+    phone: "+41791234567",
+    gender: "female"
+  },
   {
     firstName: "Ethan",
     lastName: "Meier",
