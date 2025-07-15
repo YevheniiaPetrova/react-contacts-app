@@ -36,12 +36,6 @@
     gender: "male"
    },
   {
-    firstName: "Isabella",
-    lastName: "Weber",
-    phone: "+41791234567",
-    gender: "female"
-  },
-  {
     firstName: "Ethan",
     lastName: "Meier",
     phone: "+496921234567",
